@@ -70,3 +70,22 @@ span{
 .button-area{
     margin-right: 20px;
 }
+
+
+.line{
+   margin-left: 37%;
+   margin-right: 37%;
+   border-radius: 20px;
+   color-scheme: rgb(201, 195, 195);
+   border-width: 1.5px;
+}
+
+
+footer {
+  margin-top: 300px;
+  background-color: #f8f8f8;
+  padding: 20px 0;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+}
